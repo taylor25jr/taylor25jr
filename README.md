@@ -8,8 +8,8 @@
 
  <br>
  <br>
- <a target="_blank" href="https://www.linkedin.com/in/luis-david-ferrer-conde-a5582a1b7/"><img src = "./linkedin.png"></img></a>
-<a target="_blank" href="mailto luisdavidferrerconde@gmail.com"><img src="./gmail.png"></img></a>
+ <a target="_blank" href="https://www.linkedin.com/in/luis-david-ferrer-conde-a5582a1b7/"><img src ="./linkedin.png"></img></a>
+<a target="_blank" href="mailto:luisdavidferrerconde@gmail.com"><img src="./gmail.png"></img></a>
  <br>
  <br>
 
