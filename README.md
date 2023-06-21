@@ -25,10 +25,7 @@
  <br>
 
 # <img height="20" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
-<img src="./bootstrap.png" style="margin-right: 30px;"><img src="./css3.png" style="margin-right: 30px;"><img src="./git.png" style="margin-right: 30px;"><img src="./github.png" style="margin-right: 30px;"><img src="./html5.png" style="margin-right: 30px;"><img src="./javascript.png" style="margin-right: 30px;"><img src="./markdown.png" style="margin-right: 30px;"><img src="./sass.png" style="margin-right: 30px;"><img src="./visual-studio-code.png" style="margin-right: 30px;">
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,figma,bootstrap,git,github,discord)](https://skillicons.dev) 
 
 <br>
 <h1 align="center">
