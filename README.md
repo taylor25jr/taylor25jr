@@ -25,15 +25,7 @@
  <br>
 
 # <img height="20" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
-<img src="./bootstrap.png">
-<img src="./css3.png">
-<img src="./git.png">
-<img src="./github.png">
-<img src="./html5.png">
-<img src="./javascript.png">
-<img src="./markdown.png">
-<img src="./sass.png">
-<img src="./visual-studio-code.png">
+<img src="./bootstrap.png"><img src="./css3.png"><img src="./git.png"><img src="./github.png"><img src="./html5.png"><img src="./javascript.png"><img src="./markdown.png"><img src="./sass.png"><img src="./visual-studio-code.png">
 
 
 
