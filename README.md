@@ -8,24 +8,49 @@
 
  <br>
  <br>
- <a target="_blank" href="https://www.linkedin.com/in/luis-david-ferrer-conde-a5582a1b7/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto luisdavidferrerconde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ <a target="_blank" href="https://www.linkedin.com/in/luis-david-ferrer-conde-a5582a1b7/"><img src = "./linkedin.png"></img></a>
+<a target="_blank" href="mailto luisdavidferrerconde@gmail.com"><img src="./gmail.png"></img></a>
  <br>
  <br>
 
- # <img height="30" src="https://media.giphy.com/media/DgHkIp2RZVLfW/giphy.gif"/> About me:
-👯 *Looking to collaborate on Front-End projects*
+ # About me:
+  - *Looking to collaborate on Front-End projects*
 <br>
-🌱 *Currently learning JavaScript, Boostrap, Html Css, Git and Github.*
+ - *Currently learning JavaScript, Boostrap, Html Css, Git and Github.*
 <br>
-🖤 *Hobbies: Music and video games.*
+ - *Hobbies: Music and video games.*
 <br>
  <br>
  <br>
  <br>
 
-# <img height="40" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# <img height="20" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
+<img src="./bootstrap.png">
+<img src="./css3.png">
+<img src="./git.png">
+<img src="./github.png">
+<img src="./html5.png">
+<img src="./javascript.png">
+<img src="./markdown.png">
+<img src="./sass.png">
+<img src="./visual-studio-code.png">
+
+
+
+
 <br>
+<h1 align="center">
+    GitHub State | Taylor25jr
+</h1>
 
 
+![Matary1,s GitHub stats](https://github-readme-stats.vercel.app/api?username=taylor25jr&theme=-yellow&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor25jr&theme=galexy-yellow&layout=compact)
+
+
+ 
+
+
+
+
+    
