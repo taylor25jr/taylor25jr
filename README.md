@@ -25,7 +25,7 @@
  <br>
 
 # <img height="20" src="https://media.giphy.com/media/DLsx2ofSyPmcU/giphy.gif"/> Ask me about:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,figma,bootstrap,git,github,discord)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,figma,bootstrap,git,github,discord,postman,vite)](https://skillicons.dev) 
 
 <br>
 <h1 align="center">
